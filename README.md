@@ -5,7 +5,11 @@ A simple NestJS project to manage a personal book collection with full CRUD func
 ## **Video Showcase**
 
 Click the video below to see the API in action via Swagger UI:
-<video src="./intro.mp4" controls autoplay loop style="width: 100%; max-width: 100%; display: block;"></video>
+
+> **Note:** The video file is large and may not display directly on GitHub.  
+> Click the button below to download and view the showcase video:
+
+[⬇️ Download & Watch Video](./intro.mp4)
 
 ---
 
