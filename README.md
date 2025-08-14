@@ -59,7 +59,7 @@ My Book Collection is a small but fully functional NestJS application that allow
 Clone the repository:
 
 ```bash
-git clone https://github.com/ubaidxdev/first-nest.git
+git clone https://github.com/ubaidxdev/books_nestjs.git
 cd first-nest
 ```
 
